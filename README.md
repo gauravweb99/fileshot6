@@ -1,15 +1,6 @@
 ## @Sathish_films_bot
 
-## Render info
-
-Login mail- 
-``` 
-mimjateqo@bugfoo.com
-```
-Login pass- 
-```
-mimjateqo
-```
+## server heroku
 
 ## Vps Cmd -----------
 
@@ -29,6 +20,6 @@ python main.py
 
 tm- Sathish Sk
 
-last pay- none
+next pay- 15/05/23
 
 fees- free
