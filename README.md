@@ -1,6 +1,6 @@
 ## @Sathish_films_bot
 
-## server heroku
+## server render :- 
 
 ## Vps Cmd -----------
 
